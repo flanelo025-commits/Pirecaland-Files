@@ -18,6 +18,36 @@
       "name": "voicechat-fabric-1.21.1-2.6.11.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/voicechat-fabric-1.21.1-2.6.11.jar",
       "path": "mods/"
+    },
+    {
+      "name": "SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "Terralith_1.21.x_v2.5.8.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/Terralith_1.21.x_v2.5.8.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "[Fabric]ctov-3.6.1.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/%5BFabric%5Dctov-3.6.1.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "audioplayer-fabric-1.21.1-1.13.2.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/audioplayer-fabric-1.21.1-1.13.2.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "chipped-fabric-1.21.1-4.0.2.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/chipped-fabric-1.21.1-4.0.2.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/cloth-config-15.0.140-fabric.jar",
+      "path": "mods/"
     }
   ]
 }
