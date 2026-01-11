@@ -93,6 +93,11 @@
      "name": "tectonic-3.0.19-fabric-1.21.1.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/tectonic-3.0.19-fabric-1.21.1.jar",
       "path": "mods/" 
+    },
+    {
+      "name": "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar",
+      "path": "mods/"  
     }
   ]
 }
