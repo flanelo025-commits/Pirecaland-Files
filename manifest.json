@@ -64,5 +64,35 @@
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/lithium-fabric-0.15.1+mc1.21.1.jar",
       "path": "mods/"
     }
+    {
+      "name": "alcocraftplus-1.21.1-2.1.0-fabric.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/alcocraftplus-1.21.1-2.1.0-fabric.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "GlitchCore-fabric-1.21.1-2.1.0.0.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "athena-fabric-1.21-4.0.2.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/athena-fabric-1.21-4.0.2.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "lithostitched-1.5.7-fabric-1.21.1.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/lithostitched-1.5.7-fabric-1.21.1.jar",
+      "path": "mods/"
+    },
+    {
+      "name": "resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "path": "mods/"
+    },
+    {
+     "name": "tectonic-3.0.19-fabric-1.21.1.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/tectonic-3.0.19-fabric-1.21.1.jar",
+      "path": "mods/" 
+    }
   ]
 }
