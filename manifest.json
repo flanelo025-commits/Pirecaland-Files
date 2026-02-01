@@ -148,6 +148,11 @@
       "name": "bettervillage-fabric-1.21.1-3.3.1.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/bettervillage-fabric-1.21.1-3.3.1.jar",
       "path": "mods/"  
+    },
+    {
+      "name": "libraryferret-fabric-1.21.1-4.0.0.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/libraryferret-fabric-1.21.1-4.0.0.jar",
+      "path": "mods/"  
     }
   ]
 }
