@@ -143,6 +143,16 @@
       "name": "libraryferret-fabric-1.21.1-4.0.0.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/libraryferret-fabric-1.21.1-4.0.0.jar",
       "path": "mods/"  
+    },
+    {
+      "name": "jei-1.21.1-fabric-19.27.0.340.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/jei-1.21.1-fabric-19.27.0.340.jar",
+      "path": "mods/"  
+    },
+    {
+      "name": "Jade-1.21.1-Fabric-15.10.5.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/Jade-1.21.1-Fabric-15.10.5.jar",
+      "path": "mods/"  
     }
   ]
 }
