@@ -158,21 +158,6 @@
       "name": "xaerominimap-fabric-1.21.1-25.3.10.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/xaerominimap-fabric-1.21.1-25.3.10.jar",
       "path": "mods/"  
-    },
-     {
-      "name": "zoomify-2.15.2+1.21.1.jar",
-      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/zoomify-2.15.2+1.21.1.jar",
-      "path": "mods/"  
-    },
-    {
-      "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",
-      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",
-      "path": "mods/"  
-    },
-    {
-      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "path": "mods/"  
     }
   ]
 }
