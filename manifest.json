@@ -153,6 +153,21 @@
       "name": "Jade-1.21.1-Fabric-15.10.5.jar",
       "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/Jade-1.21.1-Fabric-15.10.5.jar",
       "path": "mods/"  
+    },
+    {
+      "name": "xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/xaerominimap-fabric-1.21.1-25.3.10.jar",
+      "path": "mods/"  
+    },
+     {
+      "name": "zoomify-2.15.2+1.21.1.jar",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/zoomify-2.15.2+1.21.1.jar",
+      "path": "mods/"  
+    },
+    {
+      "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jarr",
+      "url": "https://github.com/flanelo025-commits/Pirecaland-Files/raw/refs/heads/main/mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",
+      "path": "mods/"  
     }
   ]
 }
